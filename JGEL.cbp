@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="JGEL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="HP/JGEL" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="HP" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/JGEL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DRELEASETHING" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-m32" />
+			<Add option="-fexceptions" />
+			<Add option="-DGLEW_STATIC" />
+			<Add directory="../../! CodeBlocks/SDL2-devel-2.0.8-mingw.tar/SDL2-devel-2.0.8-mingw/SDL2-2.0.8/i686-w64-mingw32/include" />
+			<Add directory="../../! CodeBlocks/Binaries-LuaDist-batteries-0.9.8-Windows-x86/include" />
+			<Add directory="../../! CodeBlocks/SDL_gfx/include" />
+			<Add directory="../../! CodeBlocks/glew-2.1.0/include" />
+			<Add directory="../../! CodeBlocks/sunvox_lib/headers" />
+			<Add directory="../../! CodeBlocks/glut-3.7/include" />
+			<Add directory="../../! CodeBlocks/assimp--2.0.863-sdk/include" />
+			<Add directory="lib/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-m32" />
+			<Add option="-lmingw32 -lSDL2main -lSDL2" />
+			<Add option="-llua" />
+			<Add option="-lsdlgfx" />
+			<Add library="glew32s" />
+			<Add library="glut32" />
+			<Add library="glu32" />
+			<Add library="opengl32" />
+			<Add library="sunvox" />
+			<Add library="assimp" />
+			<Add directory="../../! CodeBlocks/SDL2-devel-2.0.8-mingw.tar/SDL2-devel-2.0.8-mingw/SDL2-2.0.8/i686-w64-mingw32/lib" />
+			<Add directory="../../! CodeBlocks/Binaries-LuaDist-batteries-0.9.8-Windows-x86/lib" />
+			<Add directory="../../! CodeBlocks/SDL_gfx/lib" />
+			<Add directory="../../! CodeBlocks/glew-2.1.0/lib/Release/Win32" />
+			<Add directory="../../! CodeBlocks/sunvox_lib/windows/lib_x86" />
+			<Add directory="../../! CodeBlocks/glut-3.7/lib" />
+			<Add directory="../../! CodeBlocks/assimp--2.0.863-sdk/lib/assimp_release-dll_win32" />
+			<Add directory="lib/lib/vs2012/x86/release" />
+			<Add directory="lib/lib/vs2012/x86/debug" />
+			<Add directory="../../! CodeBlocks/assimp--2.0.863-sdk/lib/assimp_debug-dll_win32" />
+		</Linker>
+		<Unit filename="include/ASTAR.HPP" />
+		<Unit filename="include/DISPLAY.H" />
+		<Unit filename="include/MESH.H" />
+		<Unit filename="include/OBJ.h" />
+		<Unit filename="include/Transform.h" />
+		<Unit filename="include/camera.h" />
+		<Unit filename="include/fbxmath.h" />
+		<Unit filename="include/fbxscene.h" />
+		<Unit filename="include/fbxutil.h" />
+		<Unit filename="include/loadfbx.h" />
+		<Unit filename="include/manymouse.h" />
+		<Unit filename="include/obj_loader.h" />
+		<Unit filename="include/stb_image.h" />
+		<Unit filename="include/svFunctions.h" />
+		<Unit filename="include/test.h" />
+		<Unit filename="include/variant.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/ASTAR.CPP" />
+		<Unit filename="src/FBXLoader.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="src/fbxmath.cpp" />
+		<Unit filename="src/fbxscene.cpp" />
+		<Unit filename="src/fbxutil.cpp" />
+		<Unit filename="src/linux_evdev.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/loadfbx.cpp" />
+		<Unit filename="src/macosx_hidmanager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/macosx_hidutilities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/manymouse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/obj_loader.cpp" />
+		<Unit filename="src/test.cpp" />
+		<Unit filename="src/variant.cpp" />
+		<Unit filename="src/windows_wminput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/x11_xinput2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stb_image.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stb_image.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

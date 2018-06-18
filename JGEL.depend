@@ -1,0 +1,6939 @@
+# depslib dependency file v1.0
+1520176328 source:c:\users\gorbe\desktop\jgel\main.cpp
+	<iostream>
+	"SDL2/SDL.h"
+	<lua.hpp>
+	<string>
+	<vector>
+	<fstream>
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922211 c:\users\gorbe\desktop\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103763184 c:\users\gorbe\desktop\jgel\lualib\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1482421880 c:\users\gorbe\desktop\jgel\lualib\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1482412130 c:\users\gorbe\desktop\jgel\lualib\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1484241266 c:\users\gorbe\desktop\jgel\lualib\lualib.h
+	"lua.h"
+
+1481036071 c:\users\gorbe\desktop\jgel\lualib\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1520449260 source:i:\! ! jgel\jgel\main.cpp
+	<iostream>
+	"SDL2/SDL.h"
+	<lua.hpp>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+	"SDL_gfxPrimitives.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 i:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520027252 i:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1520027252 i:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1520027252 i:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1520027252 i:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lualib.h
+	"lua.h"
+
+1520027252 i:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1521798544 source:d:\! ! jgel\jgel\main.cpp
+	<iostream>
+	"SDL2/SDL.h"
+	<lua.hpp>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520027252 d:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1520027252 d:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1520027252 d:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1520027252 d:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lualib.h
+	"lua.h"
+
+1520027252 d:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1520448316 i:\! codeblocks\sdl_gfx\include\sdl_gfxprimitives.h
+	<math.h>
+	"SDL2/SDL.h"
+
+1520599084 source:e:\! ! jgel\jgel\main.cpp
+	<iostream>
+	"SDL2/SDL.h"
+	<lua.hpp>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 e:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520027252 e:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1520027252 e:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1520027252 e:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1520027252 e:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lualib.h
+	"lua.h"
+
+1520027252 e:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1526886424 source:d:\! ! jgel\jgel 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+	<ctime>
+	<stdio.h>
+	<thread>
+	<cassert>
+	<sstream>
+	<windows.h>
+	"GL/glew.h"
+	"GL/gl.h"
+	"GL/glut.h"
+	"SDL2/SDL.h"
+	"glm/gtx/quaternion.hpp"
+	"glm/gtx/euler_angles.hpp"
+	<lua.hpp>
+	"sunvox.h"
+	"../include/stb_image.h"
+	"obj_loader.h"
+	"manymouse.h"
+	"AStar.hpp"
+	"fbxscene.h"
+	"loadfbx.h"
+	"fbxmath.h"
+	"MESH.H"
+	"Transform.h"
+	"camera.h"
+	"OBJ.h"
+	"DISPLAY.H"
+	"svFunctions.h"
+
+1501530382 d:\! codeblocks\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1524042554 source:d:\! ! jgel\jgel 2\src\shader.cpp
+	"Shader.h"
+	<fstream>
+	<iostream>
+
+1523135772 d:\! ! jgel\jgel 2\include\shader.h
+	"camera.h"
+	<string>
+	"GL/glew.h"
+	"Transform.h"
+
+1524514772 source:d:\! ! jgel\jgel 2\src\mesh.cpp
+	"Mesh.h"
+	<vector>
+	<iostream>
+	"obj_loader.h"
+	"fbxscene.h"
+	"loadfbx.h"
+	"fbxmath.h"
+
+1525616338 d:\! ! jgel\jgel 2\include\mesh.h
+	<string>
+	"glm/glm.hpp"
+	"GL/glew.h"
+	"obj_loader.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1483566164 d:\! codeblocks\glew-2.1.0\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\precision.hpp
+	"setup.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle.hpp
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle_func.hpp
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4_simd.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1483566164 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4_simd.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1483566164 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational_simd.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1483566166 d:\! codeblocks\glew-2.1.0\include\glm\simd\exponential.h
+	"platform.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\simd\common.h
+	"platform.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1483566166 d:\! codeblocks\glew-2.1.0\include\glm\simd\geometric.h
+	"common.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\simd\matrix.h
+	"geometric.h"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1483566164 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric_simd.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.inl
+
+1483566164 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing_simd.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1483566166 d:\! codeblocks\glew-2.1.0\include\glm\simd\integer.h
+
+1511606046 d:\! codeblocks\sunvox_lib\headers\sunvox.h
+	<stdio.h>
+
+1522856542 source:d:\! ! jgel\jgel 2\src\texture.cpp
+	"Texture.h"
+	"../include/stb_image.h"
+	<cassert>
+	<iostream>
+
+1522848366 d:\! ! jgel\jgel 2\include\texture.h
+	<string>
+	"GL/glew.h"
+
+1522856616 d:\! ! jgel\jgel 2\include\stb_image.h
+	<stdio.h>
+
+1522856616 source:d:\! ! jgel\jgel 2\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1523114134 d:\! ! jgel\jgel 2\include\transform.h
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.hpp
+	"../glm.hpp"
+	"../gtc/matrix_transform.hpp"
+	"transform.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.inl
+	<limits>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.inl
+
+1523621790 d:\! ! jgel\jgel 2\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<iostream>
+
+1522861048 d:\! ! jgel\jgel 2\include\obj_loader.h
+	<glm/glm.hpp>
+	<vector>
+	<string>
+
+1522861048 source:d:\! ! jgel\jgel 2\src\obj_loader.cpp
+	"obj_loader.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<map>
+
+1524521728 d:\! ! jgel\jgel 2\include\display.h
+	"SDL2/SDL.h"
+	"GL/glew.h"
+	<string>
+	<iostream>
+	"manymouse.h"
+
+1523117892 source:d:\! ! jgel\jgel 2\src\text.cpp
+	"Text.h"
+	"GL/gl.h"
+	"GL/glut.h"
+
+1523117892 d:\! ! jgel\jgel 2\include\text.h
+	<string>
+
+902919272 d:\! codeblocks\glut-3.7\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1524514772 source:e:\! ! jgel\jgel 2\src\mesh.cpp
+	"Mesh.h"
+	<vector>
+	<iostream>
+	"obj_loader.h"
+	"fbxscene.h"
+	"loadfbx.h"
+	"fbxmath.h"
+
+1525616338 e:\! ! jgel\jgel 2\include\mesh.h
+	<string>
+	"glm/glm.hpp"
+	"GL/glew.h"
+	"obj_loader.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1483566164 e:\! codeblocks\glew-2.1.0\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\precision.hpp
+	"setup.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle.hpp
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle_func.hpp
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4_simd.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1483566164 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4_simd.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1483566164 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational_simd.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1483566166 e:\! codeblocks\glew-2.1.0\include\glm\simd\exponential.h
+	"platform.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\simd\common.h
+	"platform.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1483566166 e:\! codeblocks\glew-2.1.0\include\glm\simd\geometric.h
+	"common.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\simd\matrix.h
+	"geometric.h"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1483566164 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric_simd.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.inl
+
+1483566164 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing_simd.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1483566166 e:\! codeblocks\glew-2.1.0\include\glm\simd\integer.h
+
+1501530382 e:\! codeblocks\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1522861048 e:\! ! jgel\jgel 2\include\obj_loader.h
+	<glm/glm.hpp>
+	<vector>
+	<string>
+
+1522861048 source:e:\! ! jgel\jgel 2\src\obj_loader.cpp
+	"obj_loader.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<map>
+
+1524042554 source:e:\! ! jgel\jgel 2\src\shader.cpp
+	"Shader.h"
+	<fstream>
+	<iostream>
+
+1523135772 e:\! ! jgel\jgel 2\include\shader.h
+	"camera.h"
+	<string>
+	"GL/glew.h"
+	"Transform.h"
+
+1523621790 e:\! ! jgel\jgel 2\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<iostream>
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.hpp
+	"../glm.hpp"
+	"../gtc/matrix_transform.hpp"
+	"transform.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.inl
+	<limits>
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.inl
+
+1523114134 e:\! ! jgel\jgel 2\include\transform.h
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1523117892 source:e:\! ! jgel\jgel 2\src\text.cpp
+	"Text.h"
+	"GL/gl.h"
+	"GL/glut.h"
+
+1523117892 e:\! ! jgel\jgel 2\include\text.h
+	<string>
+
+902919272 e:\! codeblocks\glut-3.7\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1522856542 source:e:\! ! jgel\jgel 2\src\texture.cpp
+	"Texture.h"
+	"../include/stb_image.h"
+	<cassert>
+	<iostream>
+
+1522848366 e:\! ! jgel\jgel 2\include\texture.h
+	<string>
+	"GL/glew.h"
+
+1522856616 e:\! ! jgel\jgel 2\include\stb_image.h
+	<stdio.h>
+
+1522856616 source:e:\! ! jgel\jgel 2\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1526288324 source:e:\! ! jgel\jgel 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+	<ctime>
+	<stdio.h>
+	<thread>
+	<cassert>
+	<sstream>
+	<windows.h>
+	"GL/glew.h"
+	"GL/gl.h"
+	"GL/glut.h"
+	"SDL2/SDL.h"
+	"glm/gtx/quaternion.hpp"
+	"glm/gtx/euler_angles.hpp"
+	<lua.hpp>
+	"sunvox.h"
+	"../include/stb_image.h"
+	"obj_loader.h"
+	"manymouse.h"
+	"AStar.hpp"
+	"fbxscene.h"
+	"loadfbx.h"
+	"fbxmath.h"
+	"MESH.H"
+	"Transform.h"
+	"camera.h"
+	"OBJ.h"
+	"DISPLAY.H"
+	"svFunctions.h"
+
+1511606046 e:\! codeblocks\sunvox_lib\headers\sunvox.h
+	<stdio.h>
+
+1524521728 e:\! ! jgel\jgel 2\include\display.h
+	"SDL2/SDL.h"
+	"GL/glew.h"
+	<string>
+	<iostream>
+	"manymouse.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\defs.h
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\compiler\pushpack1.h
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\compiler\poppack1.h
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\quaternion.h
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\color4.inl
+	"color4.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\config.h
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\mesh.h
+	"types.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\light.h
+	"types.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\camera.h
+	"types.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\material.inl
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1402765210 d:\! codeblocks\assimp-3.1.1-win-binaries\include\assimp\postprocess.h
+	"types.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\assimp.hpp
+	"aiTypes.h"
+	"aiConfig.h"
+	"aiAssert.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aitypes.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	"aiDefines.h"
+	"aiVector3D.h"
+	"aiVector2D.h"
+	"aiColor4D.h"
+	"aiMatrix3x3.h"
+	"aiMatrix4x4.h"
+	"aiQuaternion.h"
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"aiVector3D.inl"
+	"aiColor4D.inl"
+	"aiMatrix3x3.inl"
+	"aiMatrix4x4.inl"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aidefines.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aivector3d.h
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\compiler\pushpack1.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\compiler\poppack1.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aivector2d.h
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aicolor4d.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimatrix3x3.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimatrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aiquaternion.h
+	<math.h>
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aivector3d.inl
+	"aiVector3D.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aicolor4d.inl
+	"aiColor4D.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimatrix3x3.inl
+	"aiMatrix3x3.h"
+	"aiMatrix4x4.h"
+	<algorithm>
+	<limits>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimatrix4x4.inl
+	"aiMatrix4x4.h"
+	"aiMatrix3x3.h"
+	<algorithm>
+	<limits>
+	<math.h>
+	"aiAssert.h"
+	"aiQuaternion.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aiassert.h
+	<string>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aiconfig.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimesh.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aipostprocess.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aiscene.h
+	"aiTypes.h"
+	"aiTexture.h"
+	"aiMesh.h"
+	"aiLight.h"
+	"aiCamera.h"
+	"aiMaterial.h"
+	"aiAnim.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aitexture.h
+	"aiTypes.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\ailight.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aicamera.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimaterial.h
+	"aiTypes.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"aiMaterial.inl"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aimaterial.inl
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aianim.h
+	"aiTypes.h"
+	"aiQuaternion.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\3dsconverter.cpp
+	"AssimpPCH.h"
+	"3DSLoader.h"
+	"TargetAnimation.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\assimppch.h
+	"../include/aiDefines.h"
+	"pstdint.h"
+	<stdint.h>
+	<ctype.h>
+	<vector>
+	<list>
+	<map>
+	<set>
+	<string>
+	<sstream>
+	<iomanip>
+	<cassert>
+	<stack>
+	<queue>
+	<iostream>
+	<algorithm>
+	<numeric>
+	<new>
+	<cstdio>
+	<boost/pointer_cast.hpp>
+	<boost/scoped_ptr.hpp>
+	<boost/scoped_array.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/shared_array.hpp>
+	<boost/format.hpp>
+	<boost/foreach.hpp>
+	<boost/static_assert.hpp>
+	<boost/lexical_cast.hpp>
+	"../include/DefaultLogger.h"
+	"../include/IOStream.h"
+	"../include/IOSystem.h"
+	"../include/aiScene.h"
+	"../include/aiPostProcess.h"
+	"../include/assimp.hpp"
+	"BaseImporter.h"
+	"MaterialSystem.h"
+	"StringComparison.h"
+	"StreamReader.h"
+	"qnan.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\pointer_cast.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\scoped_ptr.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\scoped_array.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\shared_ptr.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\shared_array.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\format.hpp
+	<string>
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\foreach.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\static_assert.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\lexical_cast.hpp
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\defaultlogger.h
+	"Logger.h"
+	"LogStream.h"
+	"NullLogger.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\logger.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\logstream.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\nulllogger.h
+	"Logger.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\iostream.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\iosystem.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\baseimporter.h
+	"Exceptional.h"
+	<string>
+	<map>
+	<vector>
+	"./../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\exceptional.h
+	<stdexcept>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\materialsystem.h
+	"../include/aiMaterial.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\stringcomparison.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\streamreader.h
+	"ByteSwap.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\byteswap.h
+	"../include/aiAssert.h"
+	"../include/aiTypes.h"
+	<stdlib.h>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\qnan.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\3dsloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	"3DSHelper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\3dshelper.h
+	"SpatialSort.h"
+	"SmoothingGroups.h"
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\spatialsort.h
+	<vector>
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\smoothinggroups.h
+	"SmoothingGroups.inl"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\smoothinggroups.inl
+	"SGSpatialSort.h"
+	<algorithm>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\sgspatialsort.h
+	<vector>
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\targetanimation.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\3dsloader.cpp
+	"AssimpPCH.h"
+	"3DSLoader.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\acloader.cpp
+	"AssimpPCH.h"
+	"ACLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+	"Subdivision.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\acloader.h
+	<vector>
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\parsingutils.h
+	"StringComparison.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\fast_atof.h
+	<math.h>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\subdivision.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\aiassert.cpp
+	"AssimpPCH.h"
+	"../include/aiAssert.h"
+	"crtdbg.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\aseloader.cpp
+	"AssimpPCH.h"
+	"ASELoader.h"
+	"MaterialSystem.h"
+	"StringComparison.h"
+	"SkeletonMeshBuilder.h"
+	"TargetAnimation.h"
+	"fast_atof.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\aseloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	"ASEParser.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\aseparser.h
+	<string>
+	<vector>
+	<list>
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+	"../include/aiAnim.h"
+	"ParsingUtils.h"
+	"qnan.h"
+	"3DSLoader.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\skeletonmeshbuilder.h
+	<vector>
+	"../include/aiMesh.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\aseparser.cpp
+	"AssimpPCH.h"
+	"TextureTransform.h"
+	"ASELoader.h"
+	"MaterialSystem.h"
+	"fast_atof.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\texturetransform.h
+	"BaseImporter.h"
+	"BaseProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\baseprocess.h
+	<map>
+	"../include/aiTypes.h"
+	"GenericProperty.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\genericproperty.h
+	"./../include/assimp.hpp"
+	"Hash.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\hash.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\assimp.cpp
+	"AssimpPCH.h"
+	"../include/assimp.h"
+	"../include/aiFileIO.h"
+	"GenericProperty.h"
+	<boost/thread/thread.hpp>
+	<boost/thread/mutex.hpp>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\assimp.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aifileio.h
+	"aiTypes.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\assimppch.cpp
+	"AssimpPCH.h"
+	"./../include/aiVersion.h"
+	"../revision.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\aiversion.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\revision.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\b3dimporter.cpp
+	"AssimpPCH.h"
+	"B3DImporter.h"
+	"TextureTransform.h"
+	"ConvertToLHProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\b3dimporter.h
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+	"../include/aiMaterial.h"
+	<string>
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\converttolhprocess.h
+	"../include/aiTypes.h"
+	"BaseProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\baseimporter.cpp
+	"AssimpPCH.h"
+	"BaseImporter.h"
+	"FileSystemFilter.h"
+	"../contrib/ConvertUTF/ConvertUTF.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\filesystemfilter.h
+	"../include/IOSystem.h"
+	"fast_atof.h"
+	"ParsingUtils.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\contrib\convertutf\convertutf.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\baseprocess.cpp
+	"AssimpPCH.h"
+	"BaseImporter.h"
+	"BaseProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\blenderdna.cpp
+	"AssimpPCH.h"
+	"BlenderDNA.h"
+	"StreamReader.h"
+	"fast_atof.h"
+	<fstream>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blenderdna.h
+	"BaseImporter.h"
+	"TinyFormatter.h"
+	"BlenderDNA.inl"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\tinyformatter.h
+	<sstream>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blenderdna.inl
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\blenderloader.cpp
+	"AssimpPCH.h"
+	"BlenderIntermediate.h"
+	"BlenderModifier.h"
+	"StreamReader.h"
+	"TinyFormatter.h"
+	"MemoryIOWrapper.h"
+	<zlib.h>
+	"../contrib/zlib/zlib.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blenderintermediate.h
+	"BlenderLoader.h"
+	"BlenderDNA.h"
+	"BlenderScene.h"
+	"BlenderSceneGen.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blenderloader.h
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blenderscene.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blenderscenegen.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\blendermodifier.h
+	"BlenderIntermediate.h"
+	"TinyFormatter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\memoryiowrapper.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\contrib\zlib\zlib.h
+	"zconf.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\contrib\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\blendermodifier.cpp
+	"AssimpPCH.h"
+	"BlenderModifier.h"
+	"SceneCombiner.h"
+	"Subdivision.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\scenecombiner.h
+	"../include/aiAssert.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\blenderscene.cpp
+	"AssimpPCH.h"
+	"BlenderDNA.h"
+	"BlenderScene.h"
+	"BlenderSceneGen.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\bvhloader.cpp
+	"AssimpPCH.h"
+	"BVHLoader.h"
+	"fast_atof.h"
+	"SkeletonMeshBuilder.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\bvhloader.h
+	"BaseImporter.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\calctangentsprocess.cpp
+	"AssimpPCH.h"
+	"CalcTangentsProcess.h"
+	"ProcessHelper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\calctangentsprocess.h
+	"BaseProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\processhelper.h
+	"../include/aiPostProcess.h"
+	"SpatialSort.h"
+	"BaseProcess.h"
+	"ParsingUtils.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\cobloader.cpp
+	"AssimpPCH.h"
+	"COBLoader.h"
+	"COBScene.h"
+	"StreamReader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+	"LineSplitter.h"
+	"TinyFormatter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\cobloader.h
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\cobscene.h
+	<boost/shared_ptr.hpp>
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\linesplitter.h
+	<stdexcept>
+	"StreamReader.h"
+	"ParsingUtils.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\colladaloader.cpp
+	"AssimpPCH.h"
+	"../include/aiAnim.h"
+	"ColladaLoader.h"
+	"ColladaParser.h"
+	"fast_atof.h"
+	"ParsingUtils.h"
+	"SkeletonMeshBuilder.h"
+	"time.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\colladaloader.h
+	"BaseImporter.h"
+	"ColladaParser.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\colladaparser.h
+	"irrXMLWrapper.h"
+	"ColladaHelper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\irrxmlwrapper.h
+	"./../contrib/irrXML/irrXML.h"
+	"./../include/IOStream.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\contrib\irrxml\irrxml.h
+	<stdio.h>
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\colladahelper.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\colladaparser.cpp
+	"AssimpPCH.h"
+	"ColladaParser.h"
+	"fast_atof.h"
+	"ParsingUtils.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\computeuvmappingprocess.cpp
+	"AssimpPCH.h"
+	"ComputeUVMappingProcess.h"
+	"ProcessHelper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\computeuvmappingprocess.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\converttolhprocess.cpp
+	"AssimpPCH.h"
+	"ConvertToLHProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\csmloader.cpp
+	"AssimpPCH.h"
+	"CSMLoader.h"
+	"SkeletonMeshBuilder.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\csmloader.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\defaultiostream.cpp
+	"AssimpPCH.h"
+	"DefaultIOStream.h"
+	<sys/types.h>
+	<sys/stat.h>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\defaultiostream.h
+	<stdio.h>
+	"../include/IOStream.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\defaultiosystem.cpp
+	"AssimpPCH.h"
+	<stdlib.h>
+	"DefaultIOSystem.h"
+	"DefaultIOStream.h"
+	<sys/param.h>
+	<stdlib.h>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\defaultiosystem.h
+	"../include/IOSystem.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\defaultlogger.cpp
+	"AssimpPCH.h"
+	"DefaultIOSystem.h"
+	"Win32DebugLogStream.h"
+	"StdOStreamLogStream.h"
+	"FileLogStream.h"
+	<boost/thread/thread.hpp>
+	<boost/thread/mutex.hpp>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\win32debuglogstream.h
+	"../include/LogStream.h"
+	"Windows.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\stdostreamlogstream.h
+	"../include/LogStream.h"
+	<ostream>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\filelogstream.h
+	"../include/LogStream.h"
+	"../include/IOStream.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\dxfloader.cpp
+	"AssimpPCH.h"
+	"DXFLoader.h"
+	"ParsingUtils.h"
+	"ConvertToLHProcess.h"
+	"fast_atof.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\dxfloader.h
+	"BaseImporter.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\finddegenerates.cpp
+	"AssimpPCH.h"
+	"ProcessHelper.h"
+	"FindDegenerates.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\finddegenerates.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\findinstancesprocess.cpp
+	"AssimpPCH.h"
+	"FindInstancesProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\findinstancesprocess.h
+	"BaseProcess.h"
+	"ProcessHelper.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\findinvaliddataprocess.cpp
+	"AssimpPCH.h"
+	"FindInvalidDataProcess.h"
+	"ProcessHelper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\findinvaliddataprocess.h
+	"BaseProcess.h"
+	"../include/aiTypes.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\fixnormalsstep.cpp
+	"AssimpPCH.h"
+	"FixNormalsStep.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\fixnormalsstep.h
+	"BaseProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\genfacenormalsprocess.cpp
+	"AssimpPCH.h"
+	"GenFaceNormalsProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\genfacenormalsprocess.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\genvertexnormalsprocess.cpp
+	"AssimpPCH.h"
+	"GenVertexNormalsProcess.h"
+	"ProcessHelper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\genvertexnormalsprocess.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\hmploader.cpp
+	"AssimpPCH.h"
+	"MaterialSystem.h"
+	"HMPLoader.h"
+	"MD2FileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\hmploader.h
+	"../include/aiTypes.h"
+	"../include/aiTexture.h"
+	"../include/aiMaterial.h"
+	"BaseImporter.h"
+	"MDLLoader.h"
+	"HMPFileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\mdlloader.h
+	"BaseImporter.h"
+	"MDLFileData.h"
+	"HalfLifeFileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\mdlfiledata.h
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\halflifefiledata.h
+	"./../include/Compiler/pushpack1.h"
+	"MDLFileData.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\hmpfiledata.h
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md2filedata.h
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+	"../include/aiAnim.h"
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\importer.cpp
+	"AssimpPCH.h"
+	"../include/aiVersion.h"
+	"BaseImporter.h"
+	"BaseProcess.h"
+	"DefaultIOStream.h"
+	"DefaultIOSystem.h"
+	"DefaultProgressHandler.h"
+	"GenericProperty.h"
+	"ProcessHelper.h"
+	"ScenePreprocessor.h"
+	"MemoryIOWrapper.h"
+	"Profiler.h"
+	"TinyFormatter.h"
+	"XFileImporter.h"
+	"3DSLoader.h"
+	"MD3Loader.h"
+	"MDLLoader.h"
+	"MD2Loader.h"
+	"PlyLoader.h"
+	"ASELoader.h"
+	"ObjFileImporter.h"
+	"HMPLoader.h"
+	"SMDLoader.h"
+	"MDCLoader.h"
+	"MD5Loader.h"
+	"STLLoader.h"
+	"LWOLoader.h"
+	"DXFLoader.h"
+	"NFFLoader.h"
+	"RawLoader.h"
+	"OFFLoader.h"
+	"ACLoader.h"
+	"BVHLoader.h"
+	"IRRMeshLoader.h"
+	"IRRLoader.h"
+	"Q3DLoader.h"
+	"B3DImporter.h"
+	"ColladaLoader.h"
+	"TerragenLoader.h"
+	"CSMLoader.h"
+	"UnrealLoader.h"
+	"LWSLoader.h"
+	"OgreImporter.h"
+	"MS3DLoader.h"
+	"COBLoader.h"
+	"BlenderLoader.h"
+	"Q3BSPFileImporter.h"
+	"NDOLoader.h"
+	"CalcTangentsProcess.h"
+	"JoinVerticesProcess.h"
+	"ConvertToLHProcess.h"
+	"TriangulateProcess.h"
+	"GenFaceNormalsProcess.h"
+	"GenVertexNormalsProcess.h"
+	"RemoveVCProcess.h"
+	"SplitLargeMeshes.h"
+	"PretransformVertices.h"
+	"LimitBoneWeightsProcess.h"
+	"ValidateDataStructure.h"
+	"ImproveCacheLocality.h"
+	"FixNormalsStep.h"
+	"RemoveRedundantMaterials.h"
+	"FindInvalidDataProcess.h"
+	"FindDegenerates.h"
+	"SortByPTypeProcess.h"
+	"ComputeUVMappingProcess.h"
+	"TextureTransform.h"
+	"FindInstancesProcess.h"
+	"OptimizeMeshes.h"
+	"OptimizeGraph.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\defaultprogresshandler.h
+	"../include/ProgressHandler.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\include\progresshandler.h
+	"aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\scenepreprocessor.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\profiler.h
+	"boost/timer.hpp"
+	"../include/DefaultLogger.h"
+	"TinyFormatter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\timer.hpp
+	<ctime>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\xfileimporter.h
+	<map>
+	"XFileHelper.h"
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\xfilehelper.h
+	<string>
+	<vector>
+	"../include/aiTypes.h"
+	"../include/aiQuaternion.h"
+	"../include/aiMesh.h"
+	"../include/aiAnim.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md3loader.h
+	"BaseImporter.h"
+	"ByteSwap.h"
+	"../include/aiTypes.h"
+	"MD3FileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md3filedata.h
+	<string>
+	<vector>
+	<sstream>
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+	"../include/aiAnim.h"
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md2loader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	"MD2FileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\plyloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	"PlyParser.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\plyparser.h
+	"ParsingUtils.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\objfileimporter.h
+	"BaseImporter.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\smdloader.h
+	"BaseImporter.h"
+	"ParsingUtils.h"
+	"../include/aiTypes.h"
+	"../include/aiTexture.h"
+	"../include/aiAnim.h"
+	"../include/aiMaterial.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\mdcloader.h
+	"../include/aiTypes.h"
+	"BaseImporter.h"
+	"MDCFileData.h"
+	"ByteSwap.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\mdcfiledata.h
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+	"../include/aiAnim.h"
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md5loader.h
+	"BaseImporter.h"
+	"MD5Parser.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md5parser.h
+	"../include/aiTypes.h"
+	"ParsingUtils.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\stlloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\lwoloader.h
+	"../include/aiTypes.h"
+	"../include/DefaultLogger.h"
+	"LWOFileData.h"
+	"BaseImporter.h"
+	"MaterialSystem.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\lwofiledata.h
+	<vector>
+	<list>
+	"../include/aiMesh.h"
+	"IFF.h"
+	"LWOAnimation.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\iff.h
+	"ByteSwap.h"
+	"./../include/Compiler/pushpack1.h"
+	"./../include/Compiler/poppack1.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\lwoanimation.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\nffloader.h
+	"BaseImporter.h"
+	<vector>
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\rawloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\offloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\irrmeshloader.h
+	"BaseImporter.h"
+	"IRRShared.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\irrshared.h
+	"irrXMLWrapper.h"
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\irrloader.h
+	"IRRShared.h"
+	"SceneCombiner.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\q3dloader.h
+	"BaseImporter.h"
+	"../include/aiTypes.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\terragenloader.h
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\unrealloader.h
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\lwsloader.h
+	"LWOFileData.h"
+	"SceneCombiner.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\ogreimporter.h
+	"BaseImporter.h"
+	<vector>
+	"OgreXmlHelper.h"
+	"irrXMLWrapper.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\ogrexmlhelper.h
+	"irrXMLWrapper.h"
+	"fast_atof.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\ms3dloader.h
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\q3bspfileimporter.h
+	"BaseImporter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\ndoloader.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\joinverticesprocess.h
+	"BaseProcess.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\triangulateprocess.h
+	"BaseProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\removevcprocess.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\splitlargemeshes.h
+	<vector>
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+	"../include/aiScene.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\pretransformvertices.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\limitboneweightsprocess.h
+	"BaseProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\validatedatastructure.h
+	"../include/aiTypes.h"
+	"BaseProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\improvecachelocality.h
+	"BaseProcess.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\removeredundantmaterials.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\sortbyptypeprocess.h
+	"BaseProcess.h"
+	"../include/aiMesh.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\optimizemeshes.h
+	"BaseProcess.h"
+	"../include/aiTypes.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\optimizegraph.h
+	"BaseProcess.h"
+	"ProcessHelper.h"
+	"../include/aiTypes.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\improvecachelocality.cpp
+	"AssimpPCH.h"
+	"ImproveCacheLocality.h"
+	"VertexTriangleAdjacency.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\vertextriangleadjacency.h
+	"BaseProcess.h"
+	"../include/aiTypes.h"
+	"../include/aiAssert.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\irrloader.cpp
+	"AssimpPCH.h"
+	"IRRLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+	"GenericProperty.h"
+	"SceneCombiner.h"
+	"StandardShapes.h"
+	<boost/math/common_factor_rt.hpp>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\standardshapes.h
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\boost\math\common_factor_rt.hpp
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\irrmeshloader.cpp
+	"AssimpPCH.h"
+	"IRRMeshLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\irrshared.cpp
+	"AssimpPCH.h"
+	"IRRShared.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\joinverticesprocess.cpp
+	"AssimpPCH.h"
+	"JoinVerticesProcess.h"
+	"ProcessHelper.h"
+	"Vertex.h"
+	"TinyFormatter.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\vertex.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\limitboneweightsprocess.cpp
+	"AssimpPCH.h"
+	"LimitBoneWeightsProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\lwoanimation.cpp
+	"AssimpPCH.h"
+	"LWOFileData.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\lwobloader.cpp
+	"AssimpPCH.h"
+	"LWOLoader.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\lwoloader.cpp
+	"AssimpPCH.h"
+	"LWOLoader.h"
+	"MaterialSystem.h"
+	"StringComparison.h"
+	"SGSpatialSort.h"
+	"ByteSwap.h"
+	"ProcessHelper.h"
+	"ConvertToLHProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\lwomaterial.cpp
+	"AssimpPCH.h"
+	"LWOLoader.h"
+	"MaterialSystem.h"
+	"ByteSwap.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\lwsloader.cpp
+	"AssimpPCH.h"
+	"LWSLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+	"SceneCombiner.h"
+	"GenericProperty.h"
+	"SkeletonMeshBuilder.h"
+	"ConvertToLHProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\makeverboseformat.cpp
+	"AssimpPCH.h"
+	"MakeVerboseFormat.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\makeverboseformat.h
+	"BaseProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\materialsystem.cpp
+	"AssimpPCH.h"
+	"Hash.h"
+	"fast_atof.h"
+	"ParsingUtils.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\md2loader.cpp
+	"AssimpPCH.h"
+	"MD2Loader.h"
+	"MaterialSystem.h"
+	"ByteSwap.h"
+	"MD2NormalTable.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\md2normaltable.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\md3loader.cpp
+	"AssimpPCH.h"
+	"MD3Loader.h"
+	"ByteSwap.h"
+	"SceneCombiner.h"
+	"GenericProperty.h"
+	"RemoveComments.h"
+	"ParsingUtils.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\removecomments.h
+	"../include/aiAssert.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\md5loader.cpp
+	"AssimpPCH.h"
+	"MaterialSystem.h"
+	"RemoveComments.h"
+	"MD5Loader.h"
+	"StringComparison.h"
+	"fast_atof.h"
+	"SkeletonMeshBuilder.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\md5parser.cpp
+	"AssimpPCH.h"
+	"MD5Loader.h"
+	"MaterialSystem.h"
+	"fast_atof.h"
+	"ParsingUtils.h"
+	"StringComparison.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\mdcloader.cpp
+	"AssimpPCH.h"
+	"MDCLoader.h"
+	"MD3FileData.h"
+	"MDCNormalTable.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\mdcnormaltable.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\mdlloader.cpp
+	"AssimpPCH.h"
+	"MDLLoader.h"
+	"MDLDefaultColorMap.h"
+	"MD2FileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\mdldefaultcolormap.h
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\mdlmaterialloader.cpp
+	"AssimpPCH.h"
+	"MDLLoader.h"
+	"MDLDefaultColorMap.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\ms3dloader.cpp
+	"AssimpPCH.h"
+	"MS3DLoader.h"
+	"StreamReader.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\ndoloader.cpp
+	"AssimpPCH.h"
+	"NDOLoader.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\nffloader.cpp
+	"AssimpPCH.h"
+	"NFFLoader.h"
+	"ParsingUtils.h"
+	"StandardShapes.h"
+	"fast_atof.h"
+	"RemoveComments.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\objfileimporter.cpp
+	"AssimpPCH.h"
+	"DefaultIOSystem.h"
+	"ObjFileImporter.h"
+	"ObjFileParser.h"
+	"ObjFileData.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\objfileparser.h
+	<vector>
+	<string>
+	<map>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\objfiledata.h
+	<vector>
+	<map>
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\objfilemtlimporter.cpp
+	"AssimpPCH.h"
+	"ObjFileMtlImporter.h"
+	"ObjTools.h"
+	"ObjFileData.h"
+	"fast_atof.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\objfilemtlimporter.h
+	<vector>
+	<string>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\objtools.h
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\objfileparser.cpp
+	"AssimpPCH.h"
+	"ObjFileParser.h"
+	"ObjFileMtlImporter.h"
+	"ObjTools.h"
+	"ObjFileData.h"
+	"fast_atof.h"
+	"../include/aiTypes.h"
+	"DefaultIOSystem.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\offloader.cpp
+	"AssimpPCH.h"
+	"OFFLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\ogreimporter.cpp
+	"AssimpPCH.h"
+	<vector>
+	<sstream>
+	"TinyFormatter.h"
+	"OgreImporter.h"
+	"irrXMLWrapper.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\ogreimportermaterial.cpp
+	"AssimpPCH.h"
+	<vector>
+	<sstream>
+	"OgreImporter.h"
+	"irrXMLWrapper.h"
+	"TinyFormatter.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\optimizegraph.cpp
+	"AssimpPCH.h"
+	"OptimizeGraph.h"
+	"ProcessHelper.h"
+	"SceneCombiner.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\optimizemeshes.cpp
+	"AssimpPCH.h"
+	"OptimizeMeshes.h"
+	"ProcessHelper.h"
+	"SceneCombiner.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\plyloader.cpp
+	"AssimpPCH.h"
+	"PlyLoader.h"
+	"MaterialSystem.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\plyparser.cpp
+	"AssimpPCH.h"
+	"PlyLoader.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\pretransformvertices.cpp
+	"AssimpPCH.h"
+	"PretransformVertices.h"
+	"ProcessHelper.h"
+	"SceneCombiner.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\q3bspfileimporter.cpp
+	"AssimpPCH.h"
+	"DefaultIOSystem.h"
+	"Q3BSPFileImporter.h"
+	"Q3BSPZipArchive.h"
+	"Q3BSPFileParser.h"
+	"Q3BSPFileData.h"
+	<zlib.h>
+	"../contrib/zlib/zlib.h"
+	"../include/aiTypes.h"
+	"../include/aiMesh.h"
+	<vector>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\q3bspziparchive.h
+	"../contrib/unzip/unzip.h"
+	"../include/IOStream.h"
+	"../include/IOSystem.h"
+	<string>
+	<vector>
+	<map>
+	<cassert>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\contrib\unzip\unzip.h
+	<zlib.h>
+	"../zlib/zlib.h"
+	"ioapi.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\contrib\unzip\ioapi.h
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\q3bspfileparser.h
+	"BaseImporter.h"
+	<string>
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\q3bspfiledata.h
+	<vector>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\q3bspfileparser.cpp
+	"AssimpPCH.h"
+	"Q3BSPFileParser.h"
+	"DefaultIOSystem.h"
+	"Q3BSPFileData.h"
+	"Q3BSPZipArchive.h"
+	<vector>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\q3bspziparchive.cpp
+	"AssimpPCH.h"
+	"Q3BSPZipArchive.h"
+	<algorithm>
+	<cassert>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\q3dloader.cpp
+	"AssimpPCH.h"
+	"Q3DLoader.h"
+	"StreamReader.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\rawloader.cpp
+	"AssimpPCH.h"
+	"RawLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\removecomments.cpp
+	"AssimpPCH.h"
+	"RemoveComments.h"
+	"ParsingUtils.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\removeredundantmaterials.cpp
+	"AssimpPCH.h"
+	"RemoveRedundantMaterials.h"
+	"ParsingUtils.h"
+	"ProcessHelper.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\removevcprocess.cpp
+	"AssimpPCH.h"
+	"RemoveVCProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\scenecombiner.cpp
+	"AssimpPCH.h"
+	"SceneCombiner.h"
+	"fast_atof.h"
+	"Hash.h"
+	"time.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\scenepreprocessor.cpp
+	"AssimpPCH.h"
+	"ScenePreprocessor.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\sgspatialsort.cpp
+	"AssimpPCH.h"
+	"SGSpatialSort.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\skeletonmeshbuilder.cpp
+	"AssimpPCH.h"
+	"../include/aiScene.h"
+	"SkeletonMeshBuilder.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\smdloader.cpp
+	"AssimpPCH.h"
+	"SMDLoader.h"
+	"fast_atof.h"
+	"SkeletonMeshBuilder.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\sortbyptypeprocess.cpp
+	"AssimpPCH.h"
+	"ProcessHelper.h"
+	"SortByPTypeProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\spatialsort.cpp
+	"AssimpPCH.h"
+	"SpatialSort.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\splitlargemeshes.cpp
+	"AssimpPCH.h"
+	"SplitLargeMeshes.h"
+	"ProcessHelper.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\standardshapes.cpp
+	"AssimpPCH.h"
+	"StandardShapes.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\stlloader.cpp
+	"AssimpPCH.h"
+	"STLLoader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\subdivision.cpp
+	"AssimpPCH.h"
+	"Subdivision.h"
+	"SceneCombiner.h"
+	"SpatialSort.h"
+	"ProcessHelper.h"
+	"Vertex.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\targetanimation.cpp
+	"AssimpPCH.h"
+	"TargetAnimation.h"
+	<algorithm>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\terragenloader.cpp
+	"AssimpPCH.h"
+	"TerragenLoader.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\texturetransform.cpp
+	"AssimpPCH.h"
+	"TextureTransform.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\triangulateprocess.cpp
+	"AssimpPCH.h"
+	"TriangulateProcess.h"
+	"ProcessHelper.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\unrealloader.cpp
+	"AssimpPCH.h"
+	"UnrealLoader.h"
+	"StreamReader.h"
+	"ParsingUtils.h"
+	"fast_atof.h"
+	"ConvertToLHProcess.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\validatedatastructure.cpp
+	"AssimpPCH.h"
+	"ValidateDataStructure.h"
+	"BaseImporter.h"
+	"fast_atof.h"
+	"ProcessHelper.h"
+	<stdarg.h>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\vertextriangleadjacency.cpp
+	"AssimpPCH.h"
+	"VertexTriangleAdjacency.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\xfileimporter.cpp
+	"AssimpPCH.h"
+	"XFileImporter.h"
+	"XFileParser.h"
+	"ConvertToLHProcess.h"
+
+1290372042 d:\! codeblocks\assimp--2.0.863-sdk\code\xfileparser.h
+	<string>
+	<vector>
+	"../include/aiTypes.h"
+
+1290372042 source:d:\! ! jgel\jgel 2\src\assimp\xfileparser.cpp
+	"AssimpPCH.h"
+	"XFileParser.h"
+	"XFileHelper.h"
+	"fast_atof.h"
+	<zlib.h>
+	"../contrib/zlib/zlib.h"
+
+1290372042 d:\! ! jgel\jgel 2\include\irrxml.h
+	<stdio.h>
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1290372042 source:d:\! ! jgel\jgel 2\src\utf\convertutf.c
+	"ConvertUTF.h"
+	<stdio.h>
+
+1290372042 d:\! ! jgel\jgel 2\include\convertutf.h
+
+1523020484 source:d:\! ! jgel\jgel 2\src\fbxmath.cpp
+	"fbxmath.h"
+
+1523028136 d:\! ! jgel\jgel 2\include\fbxmath.h
+	<iostream>
+	<math.h>
+	<limits>
+	<float.h>
+	<array>
+	<vector>
+	<algorithm>
+	<string.h>
+
+1363124260 source:d:\! ! jgel\jgel 2\src\fbxutil.cpp
+	"fbxutil.h"
+
+1523028632 d:\! ! jgel\jgel 2\include\fbxutil.h
+	"fbxmath.h"
+	<string>
+	<iostream>
+	<fstream>
+	<memory>
+
+1523020538 source:d:\! ! jgel\jgel 2\src\fbxscene.cpp
+	"fbxscene.h"
+
+1523023408 d:\! ! jgel\jgel 2\include\fbxscene.h
+	<memory>
+	"fbxutil.h"
+	"fbxmath.h"
+
+1523028316 source:d:\! ! jgel\jgel 2\src\loadfbx.cpp
+	"loadfbx.h"
+
+1523026940 d:\! ! jgel\jgel 2\include\loadfbx.h
+	"fbxscene.h"
+
+1363124260 source:d:\! ! jgel\jgel 2\src\variant.cpp
+	"variant.h"
+
+1523021576 d:\! ! jgel\jgel 2\include\variant.h
+	<vector>
+	<string>
+	<string.h>
+	<cstdlib>
+
+1525866086 d:\! ! jgel\jgel 2\include\svfunctions.h
+
+1523109740 source:d:\! ! jgel\jgel 2\src\test.cpp
+	"test.h"
+
+1523109740 d:\! ! jgel\jgel 2\include\test.h
+
+1523020484 source:e:\! ! jgel\jgel 2\src\fbxmath.cpp
+	"fbxmath.h"
+
+1523028136 e:\! ! jgel\jgel 2\include\fbxmath.h
+	<iostream>
+	<math.h>
+	<limits>
+	<float.h>
+	<array>
+	<vector>
+	<algorithm>
+	<string.h>
+
+1523020538 source:e:\! ! jgel\jgel 2\src\fbxscene.cpp
+	"fbxscene.h"
+
+1523023408 e:\! ! jgel\jgel 2\include\fbxscene.h
+	<memory>
+	"fbxutil.h"
+	"fbxmath.h"
+
+1523028632 e:\! ! jgel\jgel 2\include\fbxutil.h
+	"fbxmath.h"
+	<string>
+	<iostream>
+	<fstream>
+	<memory>
+
+1363124260 source:e:\! ! jgel\jgel 2\src\fbxutil.cpp
+	"fbxutil.h"
+
+1523028316 source:e:\! ! jgel\jgel 2\src\loadfbx.cpp
+	"loadfbx.h"
+
+1523026940 e:\! ! jgel\jgel 2\include\loadfbx.h
+	"fbxscene.h"
+
+1523109740 source:e:\! ! jgel\jgel 2\src\test.cpp
+	"test.h"
+
+1523109740 e:\! ! jgel\jgel 2\include\test.h
+
+1363124260 source:e:\! ! jgel\jgel 2\src\variant.cpp
+	"variant.h"
+
+1523021576 e:\! ! jgel\jgel 2\include\variant.h
+	<vector>
+	<string>
+	<string.h>
+	<cstdlib>
+
+1525866086 e:\! ! jgel\jgel 2\include\svfunctions.h
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/quaternion.hpp"
+	"../gtx/norm.hpp"
+	"quaternion.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion_simd.inl
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.hpp
+	"../detail/func_geometric.hpp"
+	"../gtx/quaternion.hpp"
+	"norm.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.inl
+	"../detail/precision.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.inl
+	<limits>
+	"../gtc/constants.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.hpp
+	"../glm.hpp"
+	"euler_angles.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.inl
+	"compatibility.hpp"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.hpp
+	"../glm.hpp"
+	"../gtc/quaternion.hpp"
+	<cfloat>
+	<cmath>
+	"compatibility.inl"
+
+1502887720 e:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.inl
+	<limits>
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/quaternion.hpp"
+	"../gtx/norm.hpp"
+	"quaternion.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion_simd.inl
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.hpp
+	"../detail/func_geometric.hpp"
+	"../gtx/quaternion.hpp"
+	"norm.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.inl
+	"../detail/precision.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.inl
+	<limits>
+	"../gtc/constants.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.hpp
+	"../glm.hpp"
+	"euler_angles.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.inl
+	"compatibility.hpp"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.hpp
+	"../glm.hpp"
+	"../gtc/quaternion.hpp"
+	<cfloat>
+	<cmath>
+	"compatibility.inl"
+
+1502887720 d:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.inl
+	<limits>
+
+1357152088 d:\! ! jgel\jgel 2\include\manymouse.h
+
+1357152088 source:d:\! ! jgel\jgel 2\src\linux_evdev.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<linux/input.h>
+
+1357152088 source:d:\! ! jgel\jgel 2\src\macosx_hidmanager.c
+	"manymouse.h"
+	<AvailabilityMacros.h>
+	<IOKit/hid/IOHIDLib.h>
+
+1357152088 source:d:\! ! jgel\jgel 2\src\macosx_hidutilities.c
+	"manymouse.h"
+	<Carbon/Carbon.h>
+	<IOKit/IOTypes.h>
+	<IOKit/hid/IOHIDUsageTables.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/IOMessage.h>
+
+1357152088 source:d:\! ! jgel\jgel 2\src\manymouse.c
+	<stdlib.h>
+	"manymouse.h"
+
+1357152088 source:d:\! ! jgel\jgel 2\src\windows_wminput.c
+	"manymouse.h"
+	<windows.h>
+	<setupapi.h>
+	<malloc.h>
+
+1357152088 source:d:\! ! jgel\jgel 2\src\x11_xinput2.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dlfcn.h>
+	<X11/extensions/XInput2.h>
+
+1357152088 source:e:\! ! jgel\jgel 2\src\linux_evdev.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<linux/input.h>
+
+1357152088 e:\! ! jgel\jgel 2\include\manymouse.h
+
+1357152088 source:e:\! ! jgel\jgel 2\src\macosx_hidmanager.c
+	"manymouse.h"
+	<AvailabilityMacros.h>
+	<IOKit/hid/IOHIDLib.h>
+
+1357152088 source:e:\! ! jgel\jgel 2\src\macosx_hidutilities.c
+	"manymouse.h"
+	<Carbon/Carbon.h>
+	<IOKit/IOTypes.h>
+	<IOKit/hid/IOHIDUsageTables.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/IOMessage.h>
+
+1357152088 source:e:\! ! jgel\jgel 2\src\manymouse.c
+	<stdlib.h>
+	"manymouse.h"
+
+1357152088 source:e:\! ! jgel\jgel 2\src\windows_wminput.c
+	"manymouse.h"
+	<windows.h>
+	<setupapi.h>
+	<malloc.h>
+
+1357152088 source:e:\! ! jgel\jgel 2\src\x11_xinput2.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dlfcn.h>
+	<X11/extensions/XInput2.h>
+
+1524515948 d:\! ! jgel\jgel 2\include\obj.h
+	<map>
+	<string>
+	<vector>
+	<cassert>
+	<cctype>
+	<cmath>
+	<cstddef>
+	<cstdlib>
+	<cstring>
+	<utility>
+	<limits>
+	<fstream>
+	<sstream>
+
+1524781474 source:d:\! ! jgel\jgel 2\src\astar.cpp
+	"AStar.hpp"
+	<algorithm>
+
+1524781444 d:\! ! jgel\jgel 2\include\astar.hpp
+	<vector>
+	<functional>
+	<set>
+
+1524781474 source:e:\! ! jgel\jgel 2\src\astar.cpp
+	"AStar.hpp"
+	<algorithm>
+
+1524781444 e:\! ! jgel\jgel 2\include\astar.hpp
+	<vector>
+	<functional>
+	<set>
+
+1524515948 e:\! ! jgel\jgel 2\include\obj.h
+	<map>
+	<string>
+	<vector>
+	<cassert>
+	<cctype>
+	<cmath>
+	<cstddef>
+	<cstdlib>
+	<cstring>
+	<utility>
+	<limits>
+	<fstream>
+	<sstream>
+
+1529333496 source:h:\! ! jgel\jgel 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+	<ctime>
+	<stdio.h>
+	<thread>
+	<cassert>
+	<sstream>
+	<windows.h>
+	"GL/glew.h"
+	"GL/gl.h"
+	"GL/glut.h"
+	"SDL2/SDL.h"
+	"glm/gtx/quaternion.hpp"
+	"glm/gtx/euler_angles.hpp"
+	<lua.hpp>
+	"sunvox.h"
+	"../include/stb_image.h"
+	"obj_loader.h"
+	"manymouse.h"
+	"AStar.hpp"
+	"fbxscene.h"
+	"loadfbx.h"
+	"fbxmath.h"
+	"MESH.H"
+	"Transform.h"
+	"camera.h"
+	"OBJ.h"
+	"DISPLAY.H"
+	"svFunctions.h"
+
+1501530382 h:\! codeblocks\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+902919272 h:\! codeblocks\glut-3.7\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 h:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/quaternion.hpp"
+	"../gtx/norm.hpp"
+	"quaternion.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1483566164 h:\! codeblocks\glew-2.1.0\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\precision.hpp
+	"setup.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle.hpp
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle_func.hpp
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4_simd.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1483566164 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4_simd.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1483566164 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational_simd.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1483566166 h:\! codeblocks\glew-2.1.0\include\glm\simd\exponential.h
+	"platform.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\simd\common.h
+	"platform.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1483566166 h:\! codeblocks\glew-2.1.0\include\glm\simd\geometric.h
+	"common.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\simd\matrix.h
+	"geometric.h"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1483566164 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric_simd.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.inl
+
+1483566164 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing_simd.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1483566166 h:\! codeblocks\glew-2.1.0\include\glm\simd\integer.h
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.inl
+	<limits>
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion_simd.inl
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.hpp
+	"../detail/func_geometric.hpp"
+	"../gtx/quaternion.hpp"
+	"norm.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.inl
+	"../detail/precision.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.inl
+	<limits>
+	"../gtc/constants.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.hpp
+	"../glm.hpp"
+	"euler_angles.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.inl
+	"compatibility.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.hpp
+	"../glm.hpp"
+	"../gtc/quaternion.hpp"
+	<cfloat>
+	<cmath>
+	"compatibility.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.inl
+	<limits>
+
+1520027252 h:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1520027252 h:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1520027252 h:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1520027252 h:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lualib.h
+	"lua.h"
+
+1520027252 h:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1511606046 h:\! codeblocks\sunvox_lib\headers\sunvox.h
+	<stdio.h>
+
+1522856616 h:\! ! jgel\jgel 2\include\stb_image.h
+	<stdio.h>
+
+1522861048 h:\! ! jgel\jgel 2\include\obj_loader.h
+	<glm/glm.hpp>
+	<vector>
+	<string>
+
+1357152088 h:\! ! jgel\jgel 2\include\manymouse.h
+
+1524781444 h:\! ! jgel\jgel 2\include\astar.hpp
+	<vector>
+	<functional>
+	<set>
+
+1523023408 h:\! ! jgel\jgel 2\include\fbxscene.h
+	<memory>
+	"fbxutil.h"
+	"fbxmath.h"
+
+1523028632 h:\! ! jgel\jgel 2\include\fbxutil.h
+	"fbxmath.h"
+	<string>
+	<iostream>
+	<fstream>
+	<memory>
+
+1523028136 h:\! ! jgel\jgel 2\include\fbxmath.h
+	<iostream>
+	<math.h>
+	<limits>
+	<float.h>
+	<array>
+	<vector>
+	<algorithm>
+	<string.h>
+
+1523026940 h:\! ! jgel\jgel 2\include\loadfbx.h
+	"fbxscene.h"
+
+1525616338 h:\! ! jgel\jgel 2\include\mesh.h
+	<string>
+	"glm/glm.hpp"
+	"GL/glew.h"
+	"obj_loader.h"
+
+1523114134 h:\! ! jgel\jgel 2\include\transform.h
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.hpp
+	"../glm.hpp"
+	"../gtc/matrix_transform.hpp"
+	"transform.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1502887720 h:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.inl
+
+1523621790 h:\! ! jgel\jgel 2\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<iostream>
+
+1524515948 h:\! ! jgel\jgel 2\include\obj.h
+	<map>
+	<string>
+	<vector>
+	<cassert>
+	<cctype>
+	<cmath>
+	<cstddef>
+	<cstdlib>
+	<cstring>
+	<utility>
+	<limits>
+	<fstream>
+	<sstream>
+
+1524521728 h:\! ! jgel\jgel 2\include\display.h
+	"SDL2/SDL.h"
+	"GL/glew.h"
+	<string>
+	<iostream>
+	"manymouse.h"
+
+1525866086 h:\! ! jgel\jgel 2\include\svfunctions.h
+
+1524781474 source:h:\! ! jgel\jgel 2\src\astar.cpp
+	"AStar.hpp"
+	<algorithm>
+
+1523020484 source:h:\! ! jgel\jgel 2\src\fbxmath.cpp
+	"fbxmath.h"
+
+1523020538 source:h:\! ! jgel\jgel 2\src\fbxscene.cpp
+	"fbxscene.h"
+
+1363124260 source:h:\! ! jgel\jgel 2\src\fbxutil.cpp
+	"fbxutil.h"
+
+1357152088 source:h:\! ! jgel\jgel 2\src\linux_evdev.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<linux/input.h>
+
+1523028316 source:h:\! ! jgel\jgel 2\src\loadfbx.cpp
+	"loadfbx.h"
+
+1357152088 source:h:\! ! jgel\jgel 2\src\macosx_hidmanager.c
+	"manymouse.h"
+	<AvailabilityMacros.h>
+	<IOKit/hid/IOHIDLib.h>
+
+1357152088 source:h:\! ! jgel\jgel 2\src\macosx_hidutilities.c
+	"manymouse.h"
+	<Carbon/Carbon.h>
+	<IOKit/IOTypes.h>
+	<IOKit/hid/IOHIDUsageTables.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/IOMessage.h>
+
+1357152088 source:h:\! ! jgel\jgel 2\src\manymouse.c
+	<stdlib.h>
+	"manymouse.h"
+
+1522861048 source:h:\! ! jgel\jgel 2\src\obj_loader.cpp
+	"obj_loader.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<map>
+
+1523109740 source:h:\! ! jgel\jgel 2\src\test.cpp
+	"test.h"
+
+1523109740 h:\! ! jgel\jgel 2\include\test.h
+
+1363124260 source:h:\! ! jgel\jgel 2\src\variant.cpp
+	"variant.h"
+
+1523021576 h:\! ! jgel\jgel 2\include\variant.h
+	<vector>
+	<string>
+	<string.h>
+	<cstdlib>
+
+1357152088 source:h:\! ! jgel\jgel 2\src\windows_wminput.c
+	"manymouse.h"
+	<windows.h>
+	<setupapi.h>
+	<malloc.h>
+
+1357152088 source:h:\! ! jgel\jgel 2\src\x11_xinput2.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dlfcn.h>
+	<X11/extensions/XInput2.h>
+
+1522856616 source:h:\! ! jgel\jgel 2\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1524781474 source:f:\! ! jgel\jgel 2\src\astar.cpp
+	"AStar.hpp"
+	<algorithm>
+
+1524781444 f:\! ! jgel\jgel 2\include\astar.hpp
+	<vector>
+	<functional>
+	<set>
+
+1523020484 source:f:\! ! jgel\jgel 2\src\fbxmath.cpp
+	"fbxmath.h"
+
+1523028136 f:\! ! jgel\jgel 2\include\fbxmath.h
+	<iostream>
+	<math.h>
+	<limits>
+	<float.h>
+	<array>
+	<vector>
+	<algorithm>
+	<string.h>
+
+1523020538 source:f:\! ! jgel\jgel 2\src\fbxscene.cpp
+	"fbxscene.h"
+
+1523023408 f:\! ! jgel\jgel 2\include\fbxscene.h
+	<memory>
+	"fbxutil.h"
+	"fbxmath.h"
+
+1523028632 f:\! ! jgel\jgel 2\include\fbxutil.h
+	"fbxmath.h"
+	<string>
+	<iostream>
+	<fstream>
+	<memory>
+
+1363124260 source:f:\! ! jgel\jgel 2\src\fbxutil.cpp
+	"fbxutil.h"
+
+1357152088 source:f:\! ! jgel\jgel 2\src\linux_evdev.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<linux/input.h>
+
+1357152088 f:\! ! jgel\jgel 2\include\manymouse.h
+
+1523028316 source:f:\! ! jgel\jgel 2\src\loadfbx.cpp
+	"loadfbx.h"
+
+1523026940 f:\! ! jgel\jgel 2\include\loadfbx.h
+	"fbxscene.h"
+
+1357152088 source:f:\! ! jgel\jgel 2\src\macosx_hidmanager.c
+	"manymouse.h"
+	<AvailabilityMacros.h>
+	<IOKit/hid/IOHIDLib.h>
+
+1357152088 source:f:\! ! jgel\jgel 2\src\macosx_hidutilities.c
+	"manymouse.h"
+	<Carbon/Carbon.h>
+	<IOKit/IOTypes.h>
+	<IOKit/hid/IOHIDUsageTables.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/IOMessage.h>
+
+1357152088 source:f:\! ! jgel\jgel 2\src\manymouse.c
+	<stdlib.h>
+	"manymouse.h"
+
+1522861048 source:f:\! ! jgel\jgel 2\src\obj_loader.cpp
+	"obj_loader.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<map>
+
+1522861048 f:\! ! jgel\jgel 2\include\obj_loader.h
+	<glm/glm.hpp>
+	<vector>
+	<string>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1483566164 f:\! codeblocks\glew-2.1.0\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\precision.hpp
+	"setup.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle.hpp
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\_swizzle_func.hpp
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec2.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec3.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec4_simd.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x3.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat2x4.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x2.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat3x4.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x2.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x3.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1483566164 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_mat4x4_simd.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_vec1.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1483566164 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_vector_relational_simd.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1483566166 f:\! codeblocks\glew-2.1.0\include\glm\simd\exponential.h
+	"platform.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\simd\common.h
+	"platform.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1483566166 f:\! codeblocks\glew-2.1.0\include\glm\simd\geometric.h
+	"common.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\simd\matrix.h
+	"geometric.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1483566164 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_trigonometric_simd.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\type_half.inl
+
+1483566164 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_packing_simd.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1483566166 f:\! codeblocks\glew-2.1.0\include\glm\simd\integer.h
+
+1523109740 source:f:\! ! jgel\jgel 2\src\test.cpp
+	"test.h"
+
+1523109740 f:\! ! jgel\jgel 2\include\test.h
+
+1363124260 source:f:\! ! jgel\jgel 2\src\variant.cpp
+	"variant.h"
+
+1523021576 f:\! ! jgel\jgel 2\include\variant.h
+	<vector>
+	<string>
+	<string.h>
+	<cstdlib>
+
+1357152088 source:f:\! ! jgel\jgel 2\src\windows_wminput.c
+	"manymouse.h"
+	<windows.h>
+	<setupapi.h>
+	<malloc.h>
+
+1357152088 source:f:\! ! jgel\jgel 2\src\x11_xinput2.c
+	"manymouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dlfcn.h>
+	<X11/extensions/XInput2.h>
+
+1522856616 source:f:\! ! jgel\jgel 2\stb_image.c
+	"stb_image.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1522856616 f:\! ! jgel\jgel 2\include\stb_image.h
+	<stdio.h>
+
+1529343794 source:f:\! ! jgel\jgel 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+	<ctime>
+	<stdio.h>
+	<thread>
+	<cassert>
+	<sstream>
+	<windows.h>
+	"GL/glew.h"
+	"GL/gl.h"
+	"GL/glut.h"
+	"SDL2/SDL.h"
+	"glm/gtx/quaternion.hpp"
+	"glm/gtx/euler_angles.hpp"
+	<lua.hpp>
+	"sunvox.h"
+	"../include/stb_image.h"
+	"obj_loader.h"
+	"manymouse.h"
+	"AStar.hpp"
+	"fbxscene.h"
+	"loadfbx.h"
+	"fbxmath.h"
+	"MESH.H"
+	"Transform.h"
+	"camera.h"
+	"OBJ.h"
+	"DISPLAY.H"
+	"svFunctions.h"
+
+1501530382 f:\! codeblocks\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+902919272 f:\! codeblocks\glut-3.7\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 f:\! codeblocks\sdl2-devel-2.0.8-mingw.tar\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/quaternion.hpp"
+	"../gtx/norm.hpp"
+	"quaternion.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\constants.inl
+	<limits>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\quaternion_simd.inl
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.hpp
+	"../detail/func_geometric.hpp"
+	"../gtx/quaternion.hpp"
+	"norm.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\norm.inl
+	"../detail/precision.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\quaternion.inl
+	<limits>
+	"../gtc/constants.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.hpp
+	"../glm.hpp"
+	"euler_angles.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\euler_angles.inl
+	"compatibility.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.hpp
+	"../glm.hpp"
+	"../gtc/quaternion.hpp"
+	<cfloat>
+	<cmath>
+	"compatibility.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\compatibility.inl
+	<limits>
+
+1520027252 f:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1520027252 f:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1520027252 f:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1520027252 f:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lualib.h
+	"lua.h"
+
+1520027252 f:\! codeblocks\binaries-luadist-batteries-0.9.8-windows-x86\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1511606046 f:\! codeblocks\sunvox_lib\headers\sunvox.h
+	<stdio.h>
+
+1525616338 f:\! ! jgel\jgel 2\include\mesh.h
+	<string>
+	"glm/glm.hpp"
+	"GL/glew.h"
+	"obj_loader.h"
+
+1523114134 f:\! ! jgel\jgel 2\include\transform.h
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.hpp
+	"../glm.hpp"
+	"../gtc/matrix_transform.hpp"
+	"transform.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1502887720 f:\! codeblocks\glew-2.1.0\include\glm\gtx\transform.inl
+
+1523621790 f:\! ! jgel\jgel 2\include\camera.h
+	<glm/glm.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<iostream>
+
+1524515948 f:\! ! jgel\jgel 2\include\obj.h
+	<map>
+	<string>
+	<vector>
+	<cassert>
+	<cctype>
+	<cmath>
+	<cstddef>
+	<cstdlib>
+	<cstring>
+	<utility>
+	<limits>
+	<fstream>
+	<sstream>
+
+1524521728 f:\! ! jgel\jgel 2\include\display.h
+	"SDL2/SDL.h"
+	"GL/glew.h"
+	<string>
+	<iostream>
+	"manymouse.h"
+
+1525866086 f:\! ! jgel\jgel 2\include\svfunctions.h
+
